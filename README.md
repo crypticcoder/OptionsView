@@ -29,6 +29,6 @@ Just download the source and add it to your project.
 
 # Results
 
-![screenshot1](https://crypticcoder.github.io/optionsview-screenshot1.png)
-![screenshot2](https://crypticcoder.github.io/optionsview-screenshot2.png)
+![screenshot1](https://sayeedhussain.github.io/optionsview-screenshot1.png)
+![screenshot2](https://sayeedhussain.github.io/optionsview-screenshot2.png)
 

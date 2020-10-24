@@ -1,7 +1,8 @@
 # OptionsView
 
 OptionsView is a minimal solution to provide a drop down like functionality in iOS. It comes in neutral hues to fit into any app's color theme
-and satisfies most use cases without having to touch the source. But you can always customize it in the source.
+and satisfies most use cases without having to touch the source. 
+But you can always customize it in the source.
 
 # Features
 
